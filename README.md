@@ -4,13 +4,13 @@ coco_change_voc.py
 ### voc转coco
 voc_change_coco.py
 
-### txt转coco
+### json转coco
 yolo_change_coco.py
 
-### txt转voc
+### json转voc
 yolo_change_voc.py
 
-### voc转txt
+### voc转json
 voc_change_yolo.py
 
 
