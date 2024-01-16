@@ -1,6 +1,9 @@
 ### coco转voc
 coco_change_voc.py
 
+### voc转coco
+voc_change_coco.py
+
 ### txt转coco
 yolo_change_coco.py
 
