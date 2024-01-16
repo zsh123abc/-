@@ -9,11 +9,11 @@ voc_change_coco.py
 #### 2，voc转json
 voc_change_yolo.py
 
-### 三，json
-#### 1，json转coco
+### 三，yolo
+#### 1，yolo转coco
 yolo_change_coco.py
 
-#### 2，json转voc
+#### 2，yolo转voc
 yolo_change_voc.py
 
 
