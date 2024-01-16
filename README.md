@@ -2,10 +2,15 @@
 coco_change_voc.py
 
 ### txt转coco
-txt_change_coco.py
+yolo_change_coco.py
 
 ### txt转voc
-txt_change_voc.py
+yolo_change_voc.py
 
 ### voc转txt
-voc_change_txt.py
+voc_change_yolo.py
+
+
+voc：xml格式
+coco：json格式
+yolo：txt格式
