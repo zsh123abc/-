@@ -1,19 +1,19 @@
-### 1，coco
-#### coco转voc
+### 一，coco
+#### 1，coco转voc
 coco_change_voc.py
 
-### 2，voc
-#### voc转coco
+### 二，voc
+#### 1，voc转coco
 voc_change_coco.py
 
-#### voc转json
+#### 2，voc转json
 voc_change_yolo.py
 
-### 3，json
-#### json转coco
+### 三，json
+#### 1，json转coco
 yolo_change_coco.py
 
-#### json转voc
+#### 2，json转voc
 yolo_change_voc.py
 
 
