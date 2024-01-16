@@ -1,15 +1,15 @@
-### coco
+### 1，coco
 #### coco转voc
 coco_change_voc.py
 
-### voc
+### 2，voc
 #### voc转coco
 voc_change_coco.py
 
 #### voc转json
 voc_change_yolo.py
 
-### json
+### 3，json
 #### json转coco
 yolo_change_coco.py
 
